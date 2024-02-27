@@ -1,0 +1,21 @@
+Como jogar T-REX: O objetivo do jogo é movimentar o t-rex de tal forma que ele não encoste nos objetos que irão vir em sua direção.
+
+Menu:
+	Use as setas direcionais para movimentar o cursor do menu para cima ou para baixo.
+	Use enter para selecionar a opção desejada.
+
+Jogo:
+	Use as setas direcionais para movimentar o t-rex.
+	Seta para cima: t-rex pula.
+	Seta para baixo: t-rex abaixa.
+	Esc: voltar ao menu.
+
+Pontuação:
+	A cada obstáculo que o t-rex atravessar o jogador pontua 10 pontos.
+
+Nivel:
+	A cada 100 pontos que o jogador adquirir, o nivel aumenta em 1.
+	A cada nivel a dificuldade vai aumentando.
+	
+Highscores:
+	Em breve.
